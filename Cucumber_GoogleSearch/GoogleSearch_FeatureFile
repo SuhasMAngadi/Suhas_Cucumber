@@ -2,7 +2,7 @@
 
 Feature: feature to test google search functionality
 
-  Scenario: Validate of google search is working
+  Scenario: Validate if google search is working
   
     Given browser is open
     And user is on google search page
