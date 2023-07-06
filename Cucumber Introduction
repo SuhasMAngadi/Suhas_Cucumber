@@ -6,3 +6,8 @@ Advantages of Cucumber:
 2. End-to-end test framework
 3. Code re-usability
 4. Easy to understand
+
+TDD: TDD is focused on testing smaller pieces of functionality individually
+- usually done only by developer
+BDD: BDD is designed to test an application’s behavior from the end user’s standpoint
+- done by team (devs, testers and managers)
